@@ -1,0 +1,4 @@
+lat,long,traffic,weather,time,emergency,severity
+16.5062,80.6480,high,rain,night,medical,90
+16.5100,80.6500,medium,clear,day,fire,70
+16.5000,80.6400,low,clear,day,police,40
